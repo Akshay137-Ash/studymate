@@ -609,7 +609,8 @@ https://1drv.ms/v/c/428de9af63495825/IQA1AMc_cPfDQquFNyU89WtlAWZUaidMJGO_2u1O4rX
 ```text
 The above is the complete walkthrough of the application.
 ```
-
+<img width="1600" height="876" alt="Screenshot 2026-09-11 190052" src="https://github.com/user-attachments/assets/05476939-6929-4f2a-beaf-6d6171f322f2" />
+A screenshot of the application.
 ---
 
 ## License
