@@ -607,7 +607,7 @@ https://github.com/Akshay137-Ash/studymate
 Demo video link will be added here after recording the project walkthrough.
 
 ```text
-Demo video: Coming soon
+Demo video: [Coming soon](https://1drv.ms/v/c/428de9af63495825/IQA1AMc_cPfDQquFNyU89WtlAWZUaidMJGO_2u1O4rX-vGw?e=7U1WY2)
 ```
 
 ---
