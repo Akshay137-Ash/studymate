@@ -604,8 +604,7 @@ https://github.com/Akshay137-Ash/studymate
 
 ## Demo
 
-https://1drv.ms/v/c/428de9af63495825/IQA1AMc_cPfDQquFNyU89WtlAWZUaidMJGO_2u1O4rX-vGw?e=aPqegm
-
+https://1drv.ms/v/c/428de9af63495825/IQCjCTtcjraNTLOBIaFCozJ2Acwj-NnPCQaicynjIhZ1X-w?e=HRGOS9
 ```text
 The above is the complete walkthrough of the application.
 ```
